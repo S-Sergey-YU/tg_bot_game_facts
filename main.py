@@ -15,7 +15,7 @@ from telegram.ext import (
 nest_asyncio.apply()
 
 # Ваш токен Telegram-бота
-TOKEN = "8292758536:AAFI_jKjtUYU3rbRWjCnwnIeQcEKkTB-XHM"
+TOKEN = "Your_token"
 
 # Возможные варианты выборов
 CHOICES = ['камень', 'ножницы', 'бумага']
